@@ -1,0 +1,1 @@
+classifier=ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/mqVlDkIMG/model.json',modelLoaded);
